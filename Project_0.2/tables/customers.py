@@ -1,4 +1,4 @@
-# tables/inventory.py
+# tables/customers.py
 
 """*********************** Customers ***********************
 
